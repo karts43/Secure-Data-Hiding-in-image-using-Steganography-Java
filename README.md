@@ -1,14 +1,15 @@
 Overview
 This project is an Image Steganography tool in Java that allows users to securely hide messages within images. It features a user-friendly GUI for encrypting and decrypting messages using a passcode.
 
-Features
+Features:
 Encrypt & Decrypt Messages: Hide and retrieve secret messages in images.
 User-Friendly GUI: Built with Java Swing for easy interaction.
 Passcode Protection: Ensures secure encryption and decryption.
 Cross-Platform: Works on Windows, macOS, and Linux.
 Image Support: Compatible with JPG format.
 Real-Time Updates: Displays status messages during operations.
-Technology Used
+
+***Technology Used
 Language: Java
 Libraries: Java Swing, AWT, ImageIO, File Handling
 Platform: Windows, macOS, Linux
